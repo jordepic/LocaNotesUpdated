@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationBasedReminders</string>
+    <string name="maps_ApiKey">AIzaSyBg7OzJs_D9QdIwdujnu1ZXXd83iJG-mCM</string>
+</resources>
